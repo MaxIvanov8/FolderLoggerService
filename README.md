@@ -1,4 +1,4 @@
-# Address book
+# Folder Logger Service
 Repo contains project of windows service.<br /><br />
 This service is watching for directory "C:\Temp". All events(adding/deleting/renaming files) will be logged in "C:\log.txt"<br /><br />
 
